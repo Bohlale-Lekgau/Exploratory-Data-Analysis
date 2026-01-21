@@ -19,7 +19,7 @@ They are curious about things like:
 - Provide data-driven insights for strategic planning, board reporting, and investor presentations.
 - Justify expansion, pricing, or promotional decisions with concrete evidence.</br>
 
-<h2><strong>Directions</strong></h2></br>Spend your time trying to understand your data, through both summary statistics and visualization. By the end, you will want to be familiar enough with the datasets that you can think of testable hypotheses that could point in specific policy directions.
+
 
 We will be looking for the following things:
 
