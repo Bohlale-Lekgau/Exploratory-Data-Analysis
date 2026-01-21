@@ -21,7 +21,7 @@ They are curious about things like:
 
 
 
-We will be looking for the following things:
+Focus points:
 
 For statistics questions, Python code >> using pandas, numpy, scipy, and/or other libraries >> to calculate correct answers, with Markdown explaining your results
 For plotting questions, labeled seaborn or matplotlib plots displayed within your notebook, with Markdown interpreting the results
