@@ -21,7 +21,7 @@ They are curious about things like:
 
 
 
-<strong><h2>Focus points:<strong><h2>
+<strong><h2>Focus points:</strong></h2>
 
 For statistics questions, Python code >> using pandas, numpy, scipy, and/or other libraries >> to calculate correct answers, with Markdown explaining your results
 For plotting questions, labeled seaborn or matplotlib plots displayed within your notebook, with Markdown interpreting the results
